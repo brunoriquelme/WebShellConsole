@@ -5,7 +5,7 @@ A lightweight web terminal emulator built with PHP and vanilla JavaScript, provi
   <img src="assets/mascot.png" width="220" style="margin:0;padding:0;">
 </p>
 
-<h1 align="center">NeonShell</h1>
+<h1 align="center">NeonShell - WebShellConsole</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-7.4+-8892BF?style=for-the-badge&logo=php">
@@ -105,8 +105,8 @@ php -i | grep disable_functions
 ## Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NeonShell.git
-cd NeonShell
+git clone https://github.com/brunoriquelme/WebShellConsole
+cd WebShellConsole
 ```
 
 ---
@@ -116,7 +116,7 @@ cd NeonShell
 ### Apache
 
 ```bash
-sudo cp WebConsole.php /var/www/html/index.php
+sudo cp WebShellConsole.php /var/www/html/index.php
 ```
 
 ---
