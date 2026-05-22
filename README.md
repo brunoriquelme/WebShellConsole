@@ -24,13 +24,29 @@ A lightweight web terminal emulator built with PHP and vanilla JavaScript, provi
 ## Preview
 
 <p align="center">
-  <img src="assets/1.png" width="900">
-</p>
-
-
-<p align="center">
   <img src="assets/2.png" width="900">
 </p>
+
+## Demo
+
+<p align="center">
+<table>
+<tr>
+<td align="center">
+
+<img src="assets/mascot2.png" width="220">
+
+</td>
+
+<td align="center">
+
+<img src="assets/0522(2).gif" width="700">
+
+</td>
+</tr>
+</table>
+</p>
+
 
 # Features
 
