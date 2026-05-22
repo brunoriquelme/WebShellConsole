@@ -27,25 +27,25 @@ A lightweight web terminal emulator built with PHP and vanilla JavaScript, provi
   <img src="assets/2.png" width="900">
 </p>
 
-## Demo
+# Demo
 
-<p align="center">
+<div align="center">
+
 <table>
 <tr>
-<td align="center">
 
-<img src="assets/mascot2.png" width="220">
-
+<td align="center" width="260">
+  <img src="assets/mascot2.png" width="220">
 </td>
 
 <td align="center">
-
-<img src="assets/0522(2).gif" width="500">
-
+  <img src="assets/0522(2).gif" width="550">
 </td>
+
 </tr>
 </table>
-</p>
+
+</div>
 
 
 # Features
