@@ -40,7 +40,7 @@ A lightweight web terminal emulator built with PHP and vanilla JavaScript, provi
 
 <td align="center">
 
-<img src="assets/0522(2).gif" width="700">
+<img src="assets/0522(2).gif" width="500">
 
 </td>
 </tr>
